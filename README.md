@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Anjali
 - 👀 I’m interested in enterprise java,building projects in springboot.
 - 🌱 I’m currently learning spring security,junit.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on java spring boot,hibernate projects.
+- 📫 How to reach me anjalir303@gmail.com
 
 <!---
 anjaliprt/anjaliprt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
