@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anjali
 - 👀 I’m interested in enterprise java,building projects in springboot.
-- 🌱 I’m currently learning spring security,junit.
+- 🌱 I’m currently learning javascript,python,docker.
 - 💞️ I’m looking to collaborate on java spring boot,hibernate projects.
 - 📫 How to reach me anjalir303@gmail.com
 
