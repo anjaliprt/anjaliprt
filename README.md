@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anjali
 - 👀 I’m interested in AI Agents,RAG.
-- 🌱 I’m currently learning javascript,python,docker.
-- 💞️ I’m looking to collaborate on java spring boot,hibernate projects.
+- 🌱 I’m currently into developing AI chatbots and Image Classification
+- 💞️ I’m looking to collaborate on LangChain,Hugging Face Models,Python.
 - 📫 How to reach me anjalir303@gmail.com
 
 <!---
